@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"destroy_bullet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"destroy_bullet",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
